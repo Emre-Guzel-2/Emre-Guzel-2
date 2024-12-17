@@ -1,11 +1,11 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Emre Guzel+I am a garde 10 computer engineer student in St Mother Teresa high school %2C+PharmD;Welcome+to+my+Resume" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Emre Guzel+I am a grade 10 computer engineer student in St Mother Teresa high school %2C+PharmD; Welcome+to+my+Resume" alt="Typing SVG" /></a>
 </h1>
 <br>
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>08:48 AM</b> and sets at <b>06:00 PM</b>. 
+Today, the sun rose at <b>08:48 AM</b> and set at <b>06:00 PM</b>. 
 As of <b>07:14 AM MST </b> the temperature is <b>37.7°F</b> 🏂 ❄️ ⛄.</p>
 <br>
 The air quality in my area is currently <b>poor (PM10: 101.03)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
