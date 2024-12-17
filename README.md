@@ -5,8 +5,7 @@
 </h1>
 <br>
 <p>
-  <img src="https://github.com/claytonjEmreGuzel/blob/main/images/waving_hand.gif" width="18px">
-<p>  My name is Emre Gzuel I am a computer engineer in grade in St Mother Teresa high school </p>
+  <img src="https://github.com/clayton My name is Emre Gzuel I am a computer engineer in grade 10 student  in St Mother Teresa high schoo/blob/main/images/waving_hand.gif" width="18px">
 
 <br>
 <br>
@@ -16,7 +15,7 @@
 <img src="PM10_plot_2022.png" width="600" height="400">
 
 <h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
-  <li><a href="https://EmreGuzelmedium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
+  <li><a href="https:// My name is Emre Gzuel I am a computer engineer in grade 10 student  in St Mother Teresa high school medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
 </ul>
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
