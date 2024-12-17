@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+![Uploading 68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d3735266475726174696f6e3d313530302670617573653d36303026636f6c6f723d304345383242266261636b67726f756e643d303030303030454526.svg…]()
 
-**Emre-Guzel-2/Emre-Guzel-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+My name is Emre Gzuel I am a computer engineer
 
 Here are some ideas to get you started:
 
