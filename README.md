@@ -5,18 +5,8 @@
 </h1>
 <br>
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
-I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
-This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>08:48 AM</b> and sets at <b>06:00 PM</b>. 
-As of <b>07:14 AM MST </b> the temperature is <b>37.7°F</b> 🏂 ❄️ ⛄.</p>
-<br>
-The air quality in my area is currently <b>poor (PM10: 101.03)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
-matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
-<br>
-<br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>829</b> days.
-During this time, <b>861</b> of <b>2480</b> ( <b>34.7% </b>) of all PM10 points collected
-exceeded the recommended US EPA level of 50 PM10.
+
+
 <br>
 <br>
 <p align="center">
@@ -24,12 +14,7 @@ exceeded the recommended US EPA level of 50 PM10.
 <img src="PM10_plot_2023.png" width="600" height="400">
 <img src="PM10_plot_2022.png" width="600" height="400">
 
-</p>
-<br>
-</p>
 <h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
-<h3>My Blog Post(s)</h3>
-<ul>
   <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
 </ul>
 <h3 align="center">📄 Favorite Languages:</h3>
