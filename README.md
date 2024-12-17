@@ -5,8 +5,10 @@
 </h1>
 <br>
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
-<b> My name is Emre Gzuel I am a computer engineer in grade in St Mother Teresa high school </b> ❄️ ⛄
-  .</p>
+I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
+This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
+Today, the sun rose at <b>08:48 AM</b> and sets at <b>06:00 PM</b>. 
+As of <b>07:14 AM MST </b> the temperature is <b>37.7°F</b> 🏂 ❄️ ⛄.</p>
 <br>
 The air quality in my area is currently <b>poor (PM10: 101.03)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
