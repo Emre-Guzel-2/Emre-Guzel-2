@@ -3,3 +3,6 @@
 
 <h3> I'm a grade 10 student in St Mother Teresa High School. </h3>
 <br> 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emre-Guzel-2)](https://github.com/anuraghazra/github-readme-stats)
